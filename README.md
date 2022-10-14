@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matteo Murgolo in 2nd Year of Epitech Strasbourg
+- 👋 Hi, I’m Matteo Murgolo in 3nd Year of Epitech Strasbourg
 - 👀 I’m interested in Front Developpment
 - 🌱 I’m currently learning Vue and MongoDB
 - 📫 How to reach me : @mxttmg on Twitter
