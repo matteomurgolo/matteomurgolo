@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Matteo Murgolo in 3nd Year of Epitech Strasbourg
+- 👋 Hi, I’m Matteo Murgolo in 4nd Year of Epitech Strasbourg
 - 👀 I’m interested in Front Developpment
-- 🌱 I’m currently learning Vue and MongoDB
-- 📫 How to reach me : @mxttmg on Twitter
+- 🌱 I’m currently learning NextJS and React
+- 📫 How to reach me : @developmweb on Twitter
 
 <!---
 matteomurgolo/matteomurgolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
