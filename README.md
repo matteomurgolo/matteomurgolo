@@ -1,9 +1,35 @@
-- 👋 Hi, I’m Matteo Murgolo in 5th Year of Epitech Strasbourg
-- 👀 I’m interested in Front Developpment
-- 🌱 I’m currently learning NextJS and React
-- 📫 How to reach me : @kyr0de on Twitter
+# 👋 Hi, I'm Matteo Murgolo
 
-<!---
-matteomurgolo/matteomurgolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Full Stack Developer
+
+Passionate about web and mobile development, I create innovative and intuitive applications.
+
+### 🛠 Technical Skills
+
+- Frontend: [TypeScript](https://developer.mozilla.org/en-US/docs/Web/TypeScript), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React](https://reactjs.org/), [Vue.js](https://vuejs.org/)
+- Backend: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [Python](https://www.python.org/)
+- Mobile: [React Native](https://reactnative.dev/)
+- Databases: [MongoDB](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/)
+- Tools: [Git](https://git-scm.com/), [Docker](https://www.docker.com/), CI/CD
+
+### 🚀 Notable Projects
+
+- [Project 1]: Reproduction of Zapier, IFTTT with Discord, Google, Youtube integrations.
+- [Project 2]: Bot for create feedback picture with a discord message.
+
+### 📊 GitHub Stats
+
+![Matteo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteomurgolo&show_icons=true&theme=radical)
+
+### 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/): [Your LinkedIn profile]
+- Email: contact@ovion.dev [Your professional email]
+
+### 🌱 Continuous Learning
+
+Always seeking new technologies and methodologies to improve my skills and create innovative solutions.
+
+---
+
+⭐️ Feel free to explore my [repositories](https://github.com/matteomurgolo?tab=repositories) and contact me for any collaboration or interesting opportunity!
