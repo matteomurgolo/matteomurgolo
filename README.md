@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matteo Murgolo in 4nd Year of Epitech Strasbourg
+- 👋 Hi, I’m Matteo Murgolo in 5th Year of Epitech Strasbourg
 - 👀 I’m interested in Front Developpment
 - 🌱 I’m currently learning NextJS and React
 - 📫 How to reach me : @kyr0de on Twitter
