@@ -6,7 +6,7 @@ Passionate about web and mobile development, I create innovative and intuitive a
 
 ### 🛠 Technical Skills
 
-- Frontend: [TypeScript](https://developer.mozilla.org/en-US/docs/Web/TypeScript), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React](https://reactjs.org/), [Vue.js](https://vuejs.org/)
+- Frontend: [TypeScript](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React](https://reactjs.org/), [Vue.js](https://vuejs.org/)
 - Backend: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [Python](https://www.python.org/)
 - Mobile: [React Native](https://reactnative.dev/)
 - Databases: [MongoDB](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/)
@@ -23,8 +23,8 @@ Passionate about web and mobile development, I create innovative and intuitive a
 
 ### 📫 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/): [Your LinkedIn profile]
-- Email: contact@ovion.dev [Your professional email]
+- [LinkedIn](https://www.linkedin.com/)
+- Email: contact@ovion.dev
 
 ### 🌱 Continuous Learning
 
